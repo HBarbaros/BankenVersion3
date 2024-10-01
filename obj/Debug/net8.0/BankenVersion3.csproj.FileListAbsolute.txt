@@ -1,0 +1,14 @@
+/Users/barbarosozdogan/BankenVersion3/obj/Debug/net8.0/BankenVersion3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/barbarosozdogan/BankenVersion3/obj/Debug/net8.0/BankenVersion3.AssemblyInfoInputs.cache
+/Users/barbarosozdogan/BankenVersion3/obj/Debug/net8.0/BankenVersion3.AssemblyInfo.cs
+/Users/barbarosozdogan/BankenVersion3/obj/Debug/net8.0/BankenVersion3.csproj.CoreCompileInputs.cache
+/Users/barbarosozdogan/BankenVersion3/bin/Debug/net8.0/BankenVersion3
+/Users/barbarosozdogan/BankenVersion3/bin/Debug/net8.0/BankenVersion3.deps.json
+/Users/barbarosozdogan/BankenVersion3/bin/Debug/net8.0/BankenVersion3.runtimeconfig.json
+/Users/barbarosozdogan/BankenVersion3/bin/Debug/net8.0/BankenVersion3.dll
+/Users/barbarosozdogan/BankenVersion3/bin/Debug/net8.0/BankenVersion3.pdb
+/Users/barbarosozdogan/BankenVersion3/obj/Debug/net8.0/BankenVersion3.dll
+/Users/barbarosozdogan/BankenVersion3/obj/Debug/net8.0/refint/BankenVersion3.dll
+/Users/barbarosozdogan/BankenVersion3/obj/Debug/net8.0/BankenVersion3.pdb
+/Users/barbarosozdogan/BankenVersion3/obj/Debug/net8.0/BankenVersion3.genruntimeconfig.cache
+/Users/barbarosozdogan/BankenVersion3/obj/Debug/net8.0/ref/BankenVersion3.dll
